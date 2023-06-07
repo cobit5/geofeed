@@ -1,2 +1,4 @@
 # prefix,country_code,region_code,city,postal
-70.39.33.0/24,UK,GB-LND,London,E14 2AA
+70.39.33.0/24,GB,GB-LND,London,
+70.39.32.0/24,GB,GB-SLG,Slough,
+70.39.36.0/24,AR,AR-B,Argentina,
