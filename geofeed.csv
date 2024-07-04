@@ -1,5 +1,6 @@
 # prefix,country_code,region_code,city,postal
 70.39.32.0/24,GB,GB-SLG,Slough,
+70.39.32.30/32,FR,FR-IDF,France,
 70.39.33.0/24,GB,GB-LND,London,
 70.39.33.254/32,FR,FR-IDF,France,
 70.39.34.0/24,SG,SG-01,Singapore,
